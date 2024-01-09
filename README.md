@@ -1,3 +1,5 @@
+SQL ISLAND
+
 SQL Island is a text-adventure game to learn the database language SQL.
 This site you can be found here : https://sql-island.informatik.uni-kl.de/
 
